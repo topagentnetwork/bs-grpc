@@ -1,6 +1,6 @@
 {
   "name": "@tan-ng/bs-grpc",
-  "version": "0.13.7",
+  "version": "0.14.0",
   "scripts": {
     "clean": "bsb -clean-world",
     "build": "npm run compile-static-protobuf-compiler-protobufs",
